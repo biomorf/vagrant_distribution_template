@@ -1,4 +1,10 @@
 
-vagrant_var/
+!vagrant_var/
+vagrant_var/*
+
+!vagrant_var/var
+vagrant_var/var/*
+
+
 .vagrant/
 tmp/
